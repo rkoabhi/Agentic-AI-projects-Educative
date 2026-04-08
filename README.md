@@ -10,17 +10,17 @@ The idea was to simulate how research actually happens:
 
 
 
-\* start with a vague idea
+- start with a vague idea
 
-\* refine it
+- refine it
 
-\* find relevant papers
+- find relevant papers
 
-\* extract insights
+- extract insights
 
-\* organize everything into a report
+- organize everything into a report
 
-\* identify gaps and future directions
+- identify gaps and future directions
 
 
 
